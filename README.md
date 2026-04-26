@@ -11,9 +11,9 @@ I build hands-on security tools to understand how threat detection works from th
 | Project | Description | Status |
 |---------|-------------|--------|
 | [SOC Log Analyzer](https://github.com/chefxx1/soc-log-analyzer) | Python detection engine for Windows Event Logs with 5 MITRE ATT&CK-mapped rules, Sigma YAML, and 24 unit tests | Done |
-| Phishing Email Analyzer | .eml parser with IOC extraction and threat intel API enrichment | In Progress |
-| Threat Intel Aggregator | IOC feed aggregator with SQLite + FastAPI lookup | Planned |
-| Wazuh Home SIEM Lab | End-to-end detection pipeline with Wazuh, custom rules, and real telemetry | Planned |
+| [Phishing Email Analyzer](https://github.com/chefxx1/phishing-analyzer) | .eml parser with 9 detection checks, IOC extraction, threat intel enrichment, and 49 tests | Done |
+| Network Traffic Analyzer | PCAP analysis with Wireshark/Zeek, C2 detection, and incident response reports | Planned |
+| Wazuh Home SIEM Lab | End-to-end detection pipeline with Wazuh, Atomic Red Team, and purple teaming | Planned |
 
 ---
 
